@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Hamza!%20👋&fontSize=50&fontAlignY=38" />
 </div>
 
@@ -53,3 +53,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+](https://github.com/hamza0312615/hamza0312615.git)
