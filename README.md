@@ -35,9 +35,25 @@
 
 <table bordercolor="#30363d">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">💧 AQUORA (Water Watch)</h3>
+      <p align="center"><i>🌍 Hyperlocal Water Intelligence & Early-Warning</i></p>
+      <hr>
+      <p>A native hybrid Android & Web platform mapping flow rates, canal depletion, and silt anomalies across the Indus Basin.</p>
+      <ul>
+        <li><b>NDWI Remote Sensing:</b> Sentinel & Landsat imagery overlays tracking Chlorophyll-a algae risks.</li>
+        <li><b>Flow-Rate Auditing:</b> Satellite accountability models flagging blockages & water theft.</li>
+        <li><b>AI Warnings:</b> Gemini LLM generating localized plain-language alerts via WhatsApp.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/hamza0312615/AQUORA"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"></a>
+        <a href="https://github.com/hamza0312615/AQUORA"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"></a>
+        <a href="https://github.com/hamza0312615/AQUORA"><img src="https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E"></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🩺 VisionDX Mega</h3>
-      <p align="center"><i>🏆 Top 10 Finalist, GDG IST Innovators Challenge</i></p>
+      <p align="center"><i>🏆 Top 10 Finalist, GDG IST Challenge</i></p>
       <hr>
       <p>An offline-first AI health diagnostics platform for underserved communities in Pakistan.</p>
       <ul>
@@ -46,14 +62,14 @@
         <li><b>Triage:</b> Community Health Worker mode & WhatsApp integration.</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Groq_LLM-f59e0b?style=flat">
+        <a href="https://github.com/hamza0312615/visiondxmega"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"></a>
+        <a href="https://github.com/hamza0312615/visiondxmega"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+        <a href="https://github.com/hamza0312615/visiondxmega"><img src="https://img.shields.io/badge/Groq_LLM-f59e0b?style=flat"></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📡 WiFi Heartbeat Sensing</h3>
-       <p align="center"><i>Non-invasive human presence & vitals detection</i></p>
+    <td width="33%" valign="top">
+      <h3 align="center">📡 WiFi Vitals Detection</h3>
+      <p align="center"><i>Non-invasive human presence & vital tracking</i></p>
       <hr>
       <p>An experimental system detecting micro-movements (breathing/heartbeats) through WiFi signal variance (RSSI).</p>
       <ul>
@@ -62,8 +78,8 @@
         <li><b>Presence Detection:</b> Identifies environmental variance for security and health monitoring.</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E">
+        <a href="https://github.com/hamza0312615/sleep-sense-"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
+        <a href="https://github.com/hamza0312615/sleep-sense-"><img src="https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E"></a>
       </p>
     </td>
   </tr>
